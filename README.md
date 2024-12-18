@@ -7,10 +7,7 @@ intuitive user interface for seamless navigation.
 ***All Bold And Italic***
 Use `git status` to list all new or modified files that haven't yet been committed.
 Use This Command Lines To Write or Modiy
-```
-git add
-git commit
-```
+This is [Demo](https://ahmedhamdy678.github.io/Kasper-Template/)
 
 
 ### Demo
