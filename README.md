@@ -8,8 +8,11 @@ intuitive user interface for seamless navigation.
 Use `git status` to list all new or modified files that haven't yet been committed.
 Use This Command Lines To Write or Modiy
 This is [Demo](https://ahmedhamdy678.github.io/Kasper-Template/)
-https://ahmedhamdy678.github.io/Kasper-Template/
-![logo (1)](https://github.com/user-attachments/assets/c238abad-6aae-447c-98e8-0c10f5f347bf)
+This is right✈️🚴👪good:shipit:
 
 # [Demo](https://ahmedhamdy678.github.io/Kasper-Template/)
 demonstrates modern web design practices, clean coding standards, and
+[^1]: My reference is
+[^2]: The Second is 
+[^3]: The Thired Is 
+This Link is one [^1]
