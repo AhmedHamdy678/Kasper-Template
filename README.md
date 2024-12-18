@@ -12,3 +12,4 @@ https://ahmedhamdy678.github.io/Kasper-Template/
 
 
 ### [Demo](https://ahmedhamdy678.github.io/Kasper-Template/)
+demonstrates modern web design practices, clean coding standards, and
